@@ -1,4 +1,4 @@
-# ⚡ IoT Smart Grid Energy Monitoring System
+# IoT Smart Grid Energy Monitoring System
 
 A real-time energy monitoring system that simulates a smart grid with 25 meters across residential, commercial, and industrial buildings. Built with a full IoT-to-dashboard pipeline using industry-standard big data tools.
 
@@ -215,7 +215,7 @@ docker-compose start   # Resume later
 
 ---
 
-## 📋 Requirements Met
+## Requirements Met
 
 | Requirement | Implementation |
 |---|---|
